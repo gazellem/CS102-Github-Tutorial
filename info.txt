@@ -1,2 +1,21 @@
 Ghazal Amirrashed 22001446 https://github.com/gazellem/CS102-Github-Tutorial.git
 Uncharted 4
+
+commit 848464ed8785af2d0e145326047d97f50f27110f (HEAD -> new_information, origin/new_information, origin/main, origin/HEAD, main)
+Author: Gazellem <gazellegithub@outlook.com>
+Date:   Thu Sep 30 00:08:00 2021 +0300
+
+    info.txt updated
+
+commit da6122d64383ea95f1b53a63e6fd707be41d8f5b
+Author: Gazellem <gazellegithub@outlook.com>
+Date:   Thu Sep 30 00:00:07 2021 +0300
+
+    Ghazal_Amirrashed_updated_info.txt
+
+commit fb8bcc7499ca660a73bc2f26ff2c4b3dd5b96db6
+Author: gazellem <91629415+gazellem@users.noreply.github.com>
+Date:   Wed Sep 29 21:38:59 2021 +0300
+
+    Initial commit
+
